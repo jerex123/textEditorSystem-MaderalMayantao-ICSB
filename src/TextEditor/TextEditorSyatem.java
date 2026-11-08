@@ -3,7 +3,7 @@ package TextEditor;
 import javax.swing.JOptionPane;
 import javax.swing.undo.UndoManager;
 
-public class TextEditorSyatem extends javax.swing.JFrame {
+public class TextEditorSyatem extend javax.swing.JFrame {
     private UndoManager undoManager = new UndoManager();
     private String[] records = new String[100];
 private int recordCount = 0;
