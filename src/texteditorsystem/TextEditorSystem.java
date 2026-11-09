@@ -12,3 +12,4 @@
 // Sidebar navigation panel creation 
 // Sidebar button instantiation 
 // Center editor workspace container layout 
+// Search control panel component layout 
