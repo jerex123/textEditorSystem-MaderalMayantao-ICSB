@@ -13,3 +13,4 @@
 // Sidebar button instantiation 
 // Center editor workspace container layout 
 // Search control panel component layout 
+// JTable and DefaultTableModel initialization 
