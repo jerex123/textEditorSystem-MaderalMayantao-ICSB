@@ -7,3 +7,6 @@
 // GUI Window setup and layout constraints 
 // Header panel design setup 
 // Sidebar button instantiation 
+// Center editor workspace container layout 
+// Center editor workspace container layout 
+// Sidebar navigation panel creation 
