@@ -2,3 +2,4 @@
 // Documentation for push saveEdit operation 
 // GUI Window setup and layout constraints 
 // Header panel design setup 
+// Sidebar navigation panel creation 
