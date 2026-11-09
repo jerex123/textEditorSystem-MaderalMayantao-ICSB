@@ -10,3 +10,4 @@
 // Center editor workspace container layout 
 // Center editor workspace container layout 
 // Sidebar navigation panel creation 
+// Sidebar button instantiation 
