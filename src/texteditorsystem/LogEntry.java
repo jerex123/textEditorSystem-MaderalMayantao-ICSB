@@ -1,5 +1,5 @@
 package texteditorsystem;
-
+// Updated documentation comment for version tracking
 public class LogEntry {
     private String id;
     private long timestamp;
